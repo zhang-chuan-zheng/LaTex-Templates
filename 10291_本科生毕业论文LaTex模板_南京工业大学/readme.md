@@ -1,0 +1,10 @@
+# <center> 配置运行环境
+
+[![](https://img.shields.io/badge/TeXstudio-4.2.3-orange)](http://texstudio.sourceforge.net/)
+[![](https://img.shields.io/badge/TeX%20Live%20Guide-zh--cn--2020-informational)](https://tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)
+[![](https://img.shields.io/badge/TeX%20Live-2022-informational)](https://tug.org/texlive/windows.html)
+[![](https://img.shields.io/badge/方正粗宋-简-informational)](https://www.zijia.com.cn/125?utm_source=fontsnetcn)
+
+点击上方的链接查看下载和安装教程！
+
+第四个链接字体也需要安装！！！
